@@ -1,0 +1,23 @@
+Python:
+
+always write if __name__ == "__main__":
+
+To invert : ~
+
+To print out in a line: print '\n'.join(map(str, list_of_ints))
+
+To convert int to unsigned int: v & 0XF (for 4 bit, 0xFFFF for 16 bit)
+
+Top down and bottom up will have the same counter in the case of a loop or a recursive function. refer utopian_tree.py
+
+use ord() to get the ascii value of a character.
+
+use abs() to get the absolute value of an integer.
+
+to find if a number is fibonacci : it should be a perfect square of (5 * n * n + 4) or (5 * n * n - 4)
+
+Osborne Effect: Osborne Computer Corporation, founder osborne promised that osborne computer Executive and vixen will be better and cheaper than osborne 1. Sales went down, people expected the new product within a year. Ones who had booked also cancelled. 
+Osborne went bankrupt.
+
+underpromise - overdeliver
+
